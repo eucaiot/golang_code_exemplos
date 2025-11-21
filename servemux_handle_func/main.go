@@ -2,8 +2,7 @@ package main
 
 import (
 	"net/http"
-
-	"github.com/eucaiot/golang_code_exemplos/servermux/handler"
+	"github.com/eucaiot/golang_code_exemplos/handler"
 )
 
 func main() {

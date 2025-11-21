@@ -1,3 +1,3 @@
-module github.com/eucaiot/golang_code_exemplos/servermux_handle_func
+module github.com/eucaiot/golang_code_exemplos
 
 go 1.25.3
